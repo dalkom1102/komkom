@@ -1,0 +1,36 @@
+<style type="text/css">
+			body {
+				margin: 0;
+				background-color: black;
+			}
+			#bz {
+				position: absolute;
+				width: 100vw;
+				height: 100vh;
+				text-align: center;
+				object-fit: cover;
+				}
+			#bg {text-align: center;
+				position: relative;
+				top: 50px;
+				}
+			.chrome {
+				position: relative; right: 550px; bottom: 600px;
+			}
+			.trash {
+				position: relative; right: 550px; bottom: 580px;
+			}
+			.n {
+				position: relative; right: 110px; bottom: 195px;
+			}
+			.k {
+				position: relative; right: 65px; bottom: 259px;
+			}
+			.s {
+				position: relative; right: 20px; bottom: 322px;
+			}
+			.f {
+				position: relative; left: 30px; bottom: 385px;
+			}
+			
+		</style>
